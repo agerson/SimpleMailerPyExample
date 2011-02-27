@@ -1,0 +1,161 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* SimpleMailerPyExampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1368, 963}}";
+			sepNavSelRange = "{302, 0}";
+			sepNavVisRange = "{0, 431}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* SimpleMailerPyExampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1368, 1326}}";
+			sepNavSelRange = "{1824, 0}";
+			sepNavVisRange = "{0, 3503}";
+		};
+	};
+	267C4FF313197B290087C0D6 /* SimpleMailerPyExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimpleMailerPyExample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	267C500513197B330087C0D6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	267C500613197B330087C0D6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	267C500A13197B660087C0D6 /* simple-mailer.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3358, 963}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2826}";
+		};
+	};
+	267C503A1319803A0087C0D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* SimpleMailerPyExampleAppDelegate.h */;
+		name = "SimpleMailerPyExampleAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 0;
+	};
+	267C503B1319803A0087C0D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 267C500A13197B660087C0D6 /* simple-mailer.py */;
+		name = "simple-mailer.py: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2826;
+		vrLoc = 0;
+	};
+	267C503D1319803A0087C0D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SimpleMailerPyExampleAppDelegate.m */;
+		name = "SimpleMailerPyExampleAppDelegate.m: 101";
+		rLen = 0;
+		rLoc = 4362;
+		rType = 0;
+		vrLen = 2891;
+		vrLoc = 1515;
+	};
+	267C50661319B61E0087C0D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SimpleMailerPyExampleAppDelegate.m */;
+		name = "SimpleMailerPyExampleAppDelegate.m: 36";
+		rLen = 0;
+		rLoc = 1824;
+		rType = 0;
+		vrLen = 3503;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 267C4FF313197B290087C0D6 /* SimpleMailerPyExample */;
+		activeTarget = 8D1107260486CEB800E47090 /* SimpleMailerPyExample */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* SimpleMailerPyExample */,
+		);
+		codeSenseManager = 267C500613197B330087C0D6 /* Code sense */;
+		executables = (
+			267C4FF313197B290087C0D6 /* SimpleMailerPyExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1190,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320449303;
+			PBXWorkspaceStateSaveDate = 320449303;
+		};
+		perUserProjectItems = {
+			267C503A1319803A0087C0D6 /* PBXTextBookmark */ = 267C503A1319803A0087C0D6 /* PBXTextBookmark */;
+			267C503B1319803A0087C0D6 /* PBXTextBookmark */ = 267C503B1319803A0087C0D6 /* PBXTextBookmark */;
+			267C503D1319803A0087C0D6 /* PBXTextBookmark */ = 267C503D1319803A0087C0D6 /* PBXTextBookmark */;
+			267C50661319B61E0087C0D6 /* PBXTextBookmark */ = 267C50661319B61E0087C0D6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 267C500513197B330087C0D6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* SimpleMailerPyExample */ = {
+		activeExec = 0;
+		executables = (
+			267C4FF313197B290087C0D6 /* SimpleMailerPyExample */,
+		);
+	};
+}
