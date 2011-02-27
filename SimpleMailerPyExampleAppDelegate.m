@@ -3,6 +3,7 @@
 //  SimpleMailerPyExample
 //
 //  Created by Adam Gerson on 2/26/11.
+//  Copyright 2011 Adam Gerson. All rights reserved.
 //
 //  Code adapted from:
 //	http://code.google.com/p/growl/source/browse/Plugins/Displays/MailMe/GrowlMailMeDisplay.m
@@ -32,7 +33,7 @@
 //  THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
 //  NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, 
 //  EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-////
+
 
 
 #import "SimpleMailerPyExampleAppDelegate.h"

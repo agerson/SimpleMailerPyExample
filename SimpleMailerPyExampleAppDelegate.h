@@ -3,7 +3,7 @@
 //  SimpleMailerPyExample
 //
 //  Created by Adam Gerson on 2/26/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Copyright 2011 Adam Gerson. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>
