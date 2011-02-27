@@ -6,7 +6,7 @@ This example Xcode project shows how to send an email from within a Cocoa applic
 This code was adapted from the Growl project. The original code can be found at:
 [http://code.google.com/p/growl/source/browse/Plugins/Displays/MailMe/GrowlMailMeDisplay.m][1]
 
-It makes use of simple-mailer.py by Peter Hosey (This file needs to be included in your project under "Resources")
+It makes use of simple-mailer.py by Peter Hosey
 [https://bitbucket.org/boredzo/simple-mailer/src/][2]
 
 [1]:http://code.google.com/p/growl/source/browse/Plugins/Displays/MailMe/GrowlMailMeDisplay.m
